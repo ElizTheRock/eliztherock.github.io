@@ -3,7 +3,7 @@ name: C4n7R0cK
 username: eliztherock
 bio: "Hi I am C4n7R0cK, a SecurityWeb Developer and Designer."
 site: http://eliztherock.github.io
-avatar: johndoe.png
+avatar: cantprofile.png
 email: ing.elizrock@gmail.com
 social:
     - title: "github"
