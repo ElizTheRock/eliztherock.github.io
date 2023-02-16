@@ -1,7 +1,7 @@
-title: Secuv-Lopr
-subtitle: A Portfolio Jekyll Theme Built for Secu-Lopr
+title: Secure-Lopr
+subtitle: A Portfolio Jekyll Theme Built for c4n7
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to SecureLoper.
+  Welcome to Secure-Lopr.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
