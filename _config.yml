@@ -26,11 +26,11 @@ urls:
 
 author_logo: cantprofile.png
 author: C4n7R0cK
-author_bio: Hi, my name is C4n7R0ck!. SecureLoper with Python + Linux Distro.
+author_bio: Hi, my name is C4n7R0ck!. SecureLoper with Python + Linux Distro Tools.
 author_email: "ing.elizrock@gmail.com"
 author_location: Peru
 author_website_url: "https://eliztherock.github.io"
-typewrite-text: Secure-Loper is a jekyll framework built to learn & make Security Tools.
+typewrite-text: Secure-Loper is a jekyll page to learn & create Security Tools.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
