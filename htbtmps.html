@@ -42,8 +42,15 @@
 
 <h6>Contenido de archivo txt</h6>
     <ul>
-    <li>Flag: {{.FetchServerInfo "ls /app"}}</li>
+    <li>Contenido del archivo:</li>
+    <ul>
+        <?php
+            $output = shell_exec('cat flagc367189f45.txt');
+            echo "<li>$output</li>";
+        ?>
     </ul>
+</ul>
+
     
 </body>
 </html>
